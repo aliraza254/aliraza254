@@ -15,23 +15,10 @@ I don't just fix bugs or build websites. I build systems that bring in clients. 
 
 ---
 
-## What I bring to the table
-
-- Full stack application architecture and development  
-- SaaS platforms with subscription and billing systems  
-- Custom CMS and CRM solutions  
-- REST API design and integrations  
-- Payment gateway and e-commerce systems  
-- Automation workflows and business process tooling  
-- Performance optimization and scalability engineering  
-- SEO-optimized and high-traffic web platforms  
-
----
-
 ## Tech Stack
 
 <p align="">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php,nodejs,js,ts,tailwind,html,css,mysql,postgres,docker,nginx,git,wordpress" />
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php,nodejs,js,ts,tailwind,html,css,mysql,postgres,docker,nginx,git,wordpress,n8n" />
 </p>
 
 ---
