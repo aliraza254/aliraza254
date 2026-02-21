@@ -1,75 +1,52 @@
-# 👋 Hi, I'm Rana
-
-Full Stack Web Developer specializing in building scalable web applications, automation systems, and high-performance digital platforms.
-
-I design and develop complete solutions — from backend architecture and APIs to modern frontend interfaces and deployment pipelines.
-
----
-
-## 🚀 What I Do
-
-- Full Stack Web Development (Laravel, Next.js, WordPress)
-- SaaS & Web App Architecture
-- CMS / CRM Systems
-- API Integrations & Automation
-- Payment Gateway Integration
-- AI-powered Applications
-- Performance & SEO Optimization
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=Muhammad+Ali+Raza;Full+Stack+Web+Developer;Scalable+Web+Applications+%7C+SaaS+Platforms+%7C+Automation+Systems" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## About Me
 
-**Frontend**  
-Next.js • React • JavaScript • Tailwind • HTML • CSS  
+𝗜 𝗮𝗺 𝗮𝗻 𝗲𝘅𝗽𝗲𝗿𝘁 𝗮𝗻𝗱 𝗮 𝗹𝗲𝗮𝗿𝗻𝗲𝗿.
 
-**Backend**  
-Laravel • PHP • Node.js • REST APIs  
+I believe that good code is useless if it doesn't help a business grow. That is why I am not just a full-stack developer. My journey is about bridging the gap between building products and selling them. I have walked this path myself: along with my partner, I co-founded, scaled, and successfully sold our Web Tool. I now use that hands-on experience to help other businesses succeed.
 
-**Database**  
-MySQL • PostgreSQL  
-
-**DevOps & Tools**  
-Docker • Nginx • Git • Linux • CI/CD  
-
-**Platforms**  
-WordPress • WooCommerce • Headless CMS  
+I don't just fix bugs or build websites. I build systems that bring in clients. If you are looking for a developer who understands business, 𝗹𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁.
 
 ---
 
-## 💼 Projects & Expertise
+## What I bring to the table
 
-- SaaS platforms with subscription systems  
-- AI chat & image generation apps  
-- Automation & workflow systems  
-- E-commerce & payment solutions  
-- High-traffic SEO websites  
-
----
-
-## 📈 Focus Areas
-
-- Scalable architecture  
-- Clean backend logic  
-- Fast frontend UX  
-- Automation & integrations  
-- Business-driven development  
+- Full stack application architecture and development  
+- SaaS platforms with subscription and billing systems  
+- Custom CMS and CRM solutions  
+- REST API design and integrations  
+- Payment gateway and e-commerce systems  
+- Automation workflows and business process tooling  
+- Performance optimization and scalability engineering  
+- SEO-optimized and high-traffic web platforms  
 
 ---
 
-## 🌍 Work Style
+## Tech Stack
 
-- Problem-solver mindset  
-- Production-ready code  
-- Performance-first approach  
-- Long-term maintainable systems  
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/muhammad-ali-raza-449587230/
+<p align="">
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php,nodejs,js,ts,tailwind,html,css,mysql,postgres,docker,nginx,git,wordpress" />
+</p>
 
 ---
 
-⭐ *Building systems that scale, automate, and perform.*
+## Connect
+
+<p align="">
+  <a href="https://github.com/aliraza254">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ali-raza-449587230/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+Building systems that scale, automate, and perform.
