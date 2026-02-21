@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=Muhammad+Ali+Raza;Full+Stack+Web+Developer;Scalable+Web+Applications+%7C+SaaS+Platforms+%7C+Automation+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=Muhammad+Ali+Raza;Full+Stack+Web+Developer;Scalable+Web+Applications;Automation+Systems;SaaS+Platforms" />
 </p>
 
 ---
