@@ -9,7 +9,7 @@
 
 𝗜 𝗮𝗺 𝗮𝗻 𝗲𝘅𝗽𝗲𝗿𝘁 𝗮𝗻𝗱 𝗮 𝗹𝗲𝗮𝗿𝗻𝗲𝗿.
 
-I believe that good code is useless if it doesn't help a business grow. That is why I am not just a full-stack developer. My journey is about bridging the gap between building products and selling them. I have walked this path myself: along with my partner, I co-founded, scaled, and successfully sold our Web Tool. I now use that hands-on experience to help other businesses succeed.
+I believe that good code is useless if it doesn't help a business grow. That is why I am not just a full-stack developer. My journey is about bridging the gap between building products and selling them. I have walked this path myself. I co-founded, scaled, and successfully sold our Web Tool. I now use that hands-on experience to help other businesses succeed.
 
 I don't just fix bugs or build websites. I build systems that bring in clients. If you are looking for a developer who understands business, 𝗹𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁.
 
